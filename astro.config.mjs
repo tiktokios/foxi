@@ -4,7 +4,6 @@ import tailwind from "@astrojs/tailwind";
 import icon from "astro-icon";
 import sitemap from "@astrojs/sitemap";
 import astroI18next from "astro-i18next";
-import alpinejs from "@astrojs/alpinejs";
 
 
 
